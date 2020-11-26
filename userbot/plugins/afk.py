@@ -1,4 +1,4 @@
-# by uniborg...Thanks @spechide 
+# by uniborg...Thanks @mbbs_lover
 # Now will be used in Mlo Userbot too....
 """Syntax: .afk REASON"""
 import asyncio
