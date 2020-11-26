@@ -58,21 +58,21 @@ IMAGE_PAC = [
 
 
 
-pm_caption = "**Synergy ɪꜱ ON IT'S TOES**\n"
+pm_caption = "**MLO ɪꜱ ON IT'S TOES**\n"
 
 pm_caption += f"**M̴y̴ ̴̴̴̴̴̴̴̴̴̴̴̴̴̴̴̴MA⃨s̤̈T̰̃E̫尺**            : {DEFAULTUSER}\n"
 
 pm_caption += "ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ        :  15.0.0 \n"
 
-pm_caption += "ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ          : [ᴊᴏɪɴ](https://t.me/SynergysupportOfficial)\n"
+pm_caption += "ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ          : [ᴊᴏɪɴ](https://t.me/mlouserbot)\n"
 
-pm_caption += "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ        : [ᴊᴏɪɴ](https://t.me/synergyOT)\n"
+pm_caption += "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ        : [ᴊᴏɪɴ](https://t.me/Spamreporttt)\n"
 
-pm_caption += "ʟɪᴄᴇɴꜱᴇ                 : [ᴍɪᴛ ʟɪᴄᴇɴꜱᴇ](https://github.com/edguru/synergy/blob/master/LICENSE)\n"
+pm_caption += "ʟɪᴄᴇɴꜱᴇ                 : [ᴍɪᴛ ʟɪᴄᴇɴꜱᴇ](https://github.com/mbbslove/mlo/blob/master/LICENSE)\n"
 
-pm_caption += "ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ            : [gym2105](https://t.me/Gym2105)\n\n"
-pm_caption += f"I am the **DEVIL KNIGHT**. 😴😴😴Sleeping for 100 of years💯 \n **finally** I have been awaken by my [creator](https://t.me/Gym2105). \n **HE GAVE ME THE DUTY TO PROTECT MY MASTER** :{DEFAULTUSER}\n So beware of my wrath ⚔️⚔️⚔️and my hidden hunger of thousand years of🌚🌚 sleep"
-pm_caption += " [synergy](https://t.me/synergyOT)"
+pm_caption += "ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ            : [mbbs_lover](https://t.me/mbbs_lover)\n\n"
+pm_caption += f"I am the **DEVIL KNIGHT**. 😴😴😴Sleeping for 100 of years💯 \n **finally** I have been awaken by my [creator](https://t.me/mbbs_lover). \n **HE GAVE ME THE DUTY TO PROTECT MY MASTER** :{DEFAULTUSER}\n So beware of my wrath ⚔️⚔️⚔️and my hidden hunger of thousand years of🌚🌚 sleep"
+pm_caption += " [MLO-USERBOT](https://t.me/Spamreporttt)"
 #@command(outgoing=True, pattern="^.alive$")
 @borg.on(admin_cmd(pattern=r"alive"))
 async def amireallyalive(alive):
