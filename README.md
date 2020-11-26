@@ -1,6 +1,6 @@
-<p align="center"><a href="https://t.me/synergyOt"><img src="https://telegra.ph/file/266a1d83d0ca0f9c30c25.jpg" width="5000"></a></p> 
+<p align="center"><a href="https://t.me/spamreporttt"><img src="https://telegra.ph/file/266a1d83d0ca0f9c30c25.jpg" width="5000"></a></p> 
 <h1 align="center"><b>MLO- USERBOT ♥️ </b></h1>
-<h4 align="center">A Powerful, Versatile And intelligent Userbot In Telethon.</h4>
+<h4 align="center">A Powerful, Rockstar And intelligent Userbot In Telethon.</h4>
 
 
 
@@ -10,7 +10,7 @@
 
 <a href="https://t.me/synergySupportOfficial"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/synergyOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/spamreporttt"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 
