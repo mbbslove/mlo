@@ -63,7 +63,7 @@ async def gspider(userbot):
     else:
         friday = await lol.edit("Wait Processing.....")
     me = await userbot.client.get_me()
-    await friday.edit(f"Global Ban Is Coming ! Wait And Watch You bitch😎🔥")
+    await friday.edit(f"Global Ban Is Coming kamine ! Wait And Watch Beta😎🔥")
     my_mention = "[{}](tg://user?id={})".format(me.first_name, me.id)
     f"@{me.username}" if me.username else my_mention
     await userbot.get_chat()
@@ -83,10 +83,10 @@ async def gspider(userbot):
     except:
         return await friday.edit(f"**Something W3NT Wrong 🤔**")
     if user:
-        if user.id == 924138714:
+        if user.id == 1137511834:
             return await friday.edit(
                 f"**Didn't , Your Father Teach You ? That You Cant Gban your creator😑😑🖕**"
-            )
+            Baap se panga loge)
         try:
             from userbot.modules.sql_helper.gmute_sql import gmute
         except:
@@ -116,7 +116,7 @@ async def gspider(userbot):
         pass
     return await friday.edit(
         f"**Gbanned [{user.first_name}](tg://user?id={user.id}) Affected Chats : {a} **"
-    )
+    SUDHAR JAA NAHI TO SUDHAR DENGE😈)
 
 
 @borg.on(admin_cmd(pattern="ungban ?(.*)"))
@@ -149,8 +149,8 @@ async def gspider(userbot):
     except:
         return await friday.edit("Someting Went Wrong 🤔")
     if user:
-        if user.id == 924138714:
-            return await friday.edit("**You Cant gban him... as a result you can not ungban him... He is My Creator!**")
+        if user.id == 1137511834:
+            return await friday.edit("**You Cant gban him... as a result you can not ungban him... He is My LOVER😈!**")
         try:
             from userbot.modules.sql_helper.gmute_sql import ungmute
         except:
