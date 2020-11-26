@@ -1,7 +1,7 @@
 {
-  "name": "synergy",
-  "description": "The most versatile and intelligent bot 🔥🔥🔥 For Support Join @synergySupportOfficial ",
-  "logo": "https://telegra.ph/file/266a1d83d0ca0f9c30c25.jpg",
+  "name": "MLO-USERBOT ❤️",
+  "description": "The most versatile and intelligent bot 🔥🔥🔥 For Support Join @Spamreporttt ",
+  "logo": "https://telegra.ph/file/6a0749dec068cf9e47b82.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/edguru/synergy/",
+  "repository": "https://github.com/mbbslove/mlo/",
   "website": "#todo",
-  "success_url": "https://t.me/synergySupportOfficial",
+  "success_url": "https://t.me/Spamreporttt",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
