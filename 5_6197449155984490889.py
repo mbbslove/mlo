@@ -1,5 +1,5 @@
-#Ported to Hêllẞø† by @Kraken_The_BadASS
-#Thanks to @starkxd for this pluhin
+#Ported to mlo by @mbbs_lover
+
 #Keep credit bitches...
 
 
